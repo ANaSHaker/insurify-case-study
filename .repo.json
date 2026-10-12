@@ -1,0 +1,6 @@
+{
+  "name": "insurify-case-study",
+  "description": "Case study: BFI Insurify, a bilingual (Arabic/English) Flutter insurance app for car, health and life cover. Customers compare packages, buy, track policies, file claims and renew. Built with Bloc/Cubit, Dio, FCM and Shorebird OTA",
+  "topics": ["flutter", "case-study", "insurtech", "insurance", "bloc", "dio", "firebase-messaging", "shorebird", "arabic", "rtl"],
+  "homepage": null
+}

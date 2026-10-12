@@ -1,0 +1,94 @@
+{
+  "outDir": "..",
+  "brand": {
+    "name": "BFI Insurify",
+    "tagline": "Car, health and life insurance — compare packages, buy, claim and renew from one app.",
+    "accent": "#1F5FAF",
+    "accent2": "#2FD6B3",
+    "logo": "D:/shaker-github/_work/brand/insurify.png",
+    "dark": true
+  },
+  "images": [
+    {
+      "type": "banner",
+      "file": "banner.png",
+      "kicker": "Case Study · InsurTech",
+      "subtitle": "Car, health & life insurance in one bilingual app — packages, claims, renewals.",
+      "screens": [
+        "D:/shaker-github/_work/shots_padded/insurify/05_home.png",
+        "D:/shaker-github/_work/shots_padded/insurify/09_packages.png",
+        "D:/shaker-github/_work/shots_padded/insurify/21_ar_home.png"
+      ],
+      "devices": [
+        "android",
+        "iphone",
+        "android"
+      ],
+      "chips": [
+        "Flutter",
+        "Bloc / Cubit",
+        "Dio",
+        "FCM",
+        "Shorebird OTA",
+        "AR / EN"
+      ]
+    },
+    {
+      "type": "gallery",
+      "file": "screens-onboarding.png",
+      "title": "Brand splash, onboarding and guest browsing",
+      "screens": [
+        "D:/shaker-github/_work/shots_padded/insurify/01_splash.png",
+        "D:/shaker-github/_work/shots_padded/insurify/02_onboarding1.png",
+        "D:/shaker-github/_work/shots_padded/insurify/04_onboarding3.png",
+        "D:/shaker-github/_work/shots_padded/insurify/05_home.png",
+        "D:/shaker-github/_work/shots_padded/insurify/08_drawer.png"
+      ],
+      "device": "mixed",
+      "cols": 5,
+      "css": ".grain:after{display:none}"
+    },
+    {
+      "type": "gallery",
+      "file": "screens-flows.png",
+      "title": "Packages, auth gate and full Arabic RTL",
+      "screens": [
+        "D:/shaker-github/_work/shots_padded/insurify/09_packages.png",
+        "D:/shaker-github/_work/shots_padded/insurify/10_login_required.png",
+        "D:/shaker-github/_work/shots_padded/insurify/12_register.png",
+        "D:/shaker-github/_work/shots_padded/insurify/21_ar_home.png",
+        "D:/shaker-github/_work/shots_padded/insurify/23_ar_packages.png"
+      ],
+      "devices": [
+        "iphone",
+        "android",
+        "iphone",
+        "android",
+        "iphone"
+      ],
+      "cols": 5,
+      "css": ".grain:after{display:none}"
+    },
+    {
+      "type": "feature",
+      "file": "feature-packages.png",
+      "kicker": "Signature feature",
+      "title": "Compare packages, then buy in a guided flow",
+      "points": [
+        "Car, health (individual / family / corporate) and life lines",
+        "Server-driven packages with coverage lists and a recommended badge",
+        "Bundle-discount offers across insurance lines",
+        "Guest browsing, login only when it matters"
+      ],
+      "screens": [
+        "D:/shaker-github/_work/shots_padded/insurify/06_home_services.png",
+        "D:/shaker-github/_work/shots_padded/insurify/09_packages.png"
+      ],
+      "devices": [
+        "android",
+        "iphone"
+      ],
+      "css": ".grain:after{display:none}"
+    }
+  ]
+}
