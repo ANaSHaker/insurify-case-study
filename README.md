@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/i18n-Arabic%20%2B%20English-F4B740?style=flat-square" alt="i18n">
   <img src="https://img.shields.io/badge/Type-Case%20Study-111827?style=flat-square" alt="Case Study">
 </p>
+<p align="center"><a href="https://play.google.com/store/apps/details?id=com.insurify.bfp"><img src="https://img.shields.io/badge/Google%20Play-Get%20it-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"></a> <a href="https://apps.apple.com/sa/app/bfi-insurify/id6761320120"><img src="https://img.shields.io/badge/App%20Store-Download-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"></a></p>
 
 > ℹ️ Case study. The source code belongs to the client and is not included.
 
@@ -122,7 +123,8 @@ flowchart LR
 التطبيق بالعربي والإنجليزي، يدعم RTL بالكامل، وفيه وضع ليلي وتكبير خط.
 
 ## Links
-- Not publicly listed on the stores. Screens above are real UI captures.
+- Google Play: <https://play.google.com/store/apps/details?id=com.insurify.bfp>
+- App Store: <https://apps.apple.com/sa/app/bfi-insurify/id6761320120>
 - More of my work: [Portfolio](https://anashaker.github.io/shaker_portfolio/)
 
 ---
